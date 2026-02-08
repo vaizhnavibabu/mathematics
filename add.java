@@ -5,5 +5,6 @@ public class add{
     int c= a+b;
     System.out.println("Addition of c:"+c);
     System.out.println("no. contain in a:"+a);
+    System.out.println("no. contain in b:"+b);
   }
 }
